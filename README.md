@@ -1,2 +1,2 @@
-# web-apps
-aplikacje internetowe - zeszyt elektroniczny
+# Aplikacje internetowe
+Zeszyt elektroniczny
