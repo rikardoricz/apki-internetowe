@@ -53,14 +53,14 @@
                     <a href="/phpNotes/lekcja1.php" target="_blank">
                         <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
                         <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
-                        <h3 class="animated-text">PHP</h3>
+                        <h3 class="animated-text">PHP 1</h3>
                     </a>
                 </div>
                 <div class="work" data-category-type="php">
                     <a href="/phpNotes/lekcja2.php" target="_blank">
                         <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
                         <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
-                        <h3 class="animated-text">PHP</h3>
+                        <h3 class="animated-text">PHP 2</h3>
                     </a>
                 </div>
                 <div class="work" data-category-type="py">
@@ -77,7 +77,14 @@
                     <a href="/phpNotes/lekcja3.php" target="_blank">
                         <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
                         <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
-                        <h3 class="animated-text">PHP</h3>
+                        <h3 class="animated-text">PHP 3</h3>
+                    </a>
+                </div>
+                <div class="work" data-category-type="php">
+                    <a href="/phpNotes/lekcja4.php" target="_blank">
+                        <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
+                        <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
+                        <h3 class="animated-text">PHP 4</h3>
                     </a>
                 </div>
                 
