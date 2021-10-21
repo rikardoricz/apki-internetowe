@@ -49,13 +49,18 @@
             border-collapse: collapse;
             padding: 3px;
         }
+
         .green {
             color: green;
         }
+
         .blue {
             color: blue;
         }
-        .multiply, .multiply tr, .multiply td{
+
+        .multiply,
+        .multiply tr,
+        .multiply td {
             color: white;
             border: none;
             padding: 5px;
@@ -218,18 +223,13 @@
                     $temp = $szer * $wys;
                     if ($temp == 1 || $temp == 100) {
                         echo "<span class=\"blue\">*</span>";
-                    }
-                    else if (($wys == 1 && $szer == 10) || ($szer == 1 && $wys == 10))
-                    {
+                    } else if (($wys == 1 && $szer == 10) || ($szer == 1 && $wys == 10)) {
                         echo "<span class=\"blue\">*</span>";
-                    }
-                    else if ($wys == $szer || $wys + $szer == 11){
+                    } else if ($wys == $szer || $wys + $szer == 11) {
                         echo "<span class=\"green\">*</span>";
-                    }
-                    else if($wys % 10 == 0 || $szer % 10 == 0 || $wys == 1 || $szer == 1){
+                    } else if ($wys % 10 == 0 || $szer % 10 == 0 || $wys == 1 || $szer == 1) {
                         echo "<span class=\"blue\">*</span>";
-                    }
-                    else {
+                    } else {
                         echo "<span>*</span>";
                     }
                     echo "</td>\n";
