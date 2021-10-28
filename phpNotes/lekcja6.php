@@ -79,7 +79,7 @@
 
             echo "</br>";
             echo "</br>";
-            echo "ZADANIA";
+            echo "ZADANIA obsługa czasu i daty";
             echo "</br>";
             echo "</br>";
 
@@ -124,7 +124,7 @@
             }
             echo leapYear(2000);
 
-            
+
 
 
 

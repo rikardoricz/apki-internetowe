@@ -91,7 +91,14 @@
                     <a href="/phpNotes/lekcja5.php" target="_blank">
                         <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
                         <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
-                        <h3 class="animated-text">PHP 5</h3>
+                        <h3 class="animated-text">6</h3>
+                    </a>
+                </div>
+                <div class="work" data-category-type="php">
+                    <a href="/phpNotes/lekcja6.php" target="_blank">
+                        <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
+                        <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
+                        <h3 class="animated-text">7,8</h3>
                     </a>
                 </div>
                 
