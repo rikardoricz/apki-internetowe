@@ -101,6 +101,13 @@
                         <h3 class="animated-text">7,8</h3>
                     </a>
                 </div>
+                <div class="work" data-category-type="php">
+                    <a href="/phpNotes/lekcja9.php" target="_blank">
+                        <img class="works-gif static" src="/gifs/img-php.png" alt="gif-static">
+                        <img class="works-gif animated" src="/gifs/img-php.png" alt="gif-1">
+                        <h3 class="animated-text">łączenie z baza</h3>
+                    </a>
+                </div>
                 
             </div>
         </div>
