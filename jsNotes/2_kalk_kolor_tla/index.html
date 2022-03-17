@@ -1,0 +1,39 @@
+<!-- https://jankupczyk.github.io/EE-09/ -->
+<!-- arkusze.pl -->
+<!-- https://egzamin-e14.blogspot.com/2017/01/praktyczne-repetytorium-cz-4-javascript.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kalkulator i zmiana koloru</title>
+    <style>
+        body {
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+        <input type="number" id="num1">
+        <select id="operator">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">/</option>
+        </select>
+        <input type="number" id="num2">
+        <input type="button" onclick="calculate()" value="Oblicz">
+    </form>
+    <span id="result"></span>
+    <h2>Zmien kolor strony:</h2>
+    <button onclick="document.body.style.backgroundColor = 'white'">Default</button> 
+    <button onclick="document.body.style.backgroundColor = 'red'">Red</button> 
+    <button onclick="document.body.style.backgroundColor = 'green'">Green</button> 
+    <button onclick="document.body.style.backgroundColor = 'blue'">Blue</button>
+    
+    <script src="script.js"></script>
+</body>
+</html>
